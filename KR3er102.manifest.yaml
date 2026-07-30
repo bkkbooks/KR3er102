@@ -16,15 +16,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er102_000.yaml, hash: 'sha256:108511f560d99b080917ee0d3fa0721a76ceefd7f4f91e365deb932c55ff3c53'}
+  - {seq: 0, filename: KR3er102_000.yaml, hash: 'sha256:92cb472496dd707578fb5c11eec1a16506b36ccfc9ff4898989139e0c40caff2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er102_000.markers.yaml, hash: 'sha256:670343f2ade0a9c0f5591a69b3831338aa777dbc8d5c0dc9d88160c83b69c68e'}
+  - {seq: 0, role: markers, filename: assets/KR3er102_000.markers.yaml, hash: 'sha256:cbc70980c854065120fc52a880a02795fc0e9b2726a504fb58d6bcc9d5662cc5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3er102_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 0
     - 5209
   label: 自序
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d12
     span:
-    - front
+    - body
     - 1487
     - 3281
   label: 人身腦氣血脈根源臟象論
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d13
     span:
-    - front
+    - body
     - 3281
     - 3573
   label: 目視耳聽論
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d14
     span:
-    - front
+    - body
     - 3573
     - 3873
   label: 鼻臭並呼吸舌味並聲音論
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d15
     span:
-    - front
+    - body
     - 3873
     - 4075
   label: 氣血論
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d16
     span:
-    - front
+    - body
     - 4075
     - 4356
   label: 明理論
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d17
     span:
-    - front
+    - body
     - 4356
     - 4707
   label: 陰陽論
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er102_jc_000-d4d18
     span:
-    - front
+    - body
     - 4707
     - 5209
   label: 先天神氣論
@@ -105,8 +105,8 @@ table_of_contents:
     marker_id: KR3er102_jc_000-d2.h1s1
     span:
     - body
-    - 0
-    - 295
+    - 5209
+    - 5504
   label: 敘
   type: section
   level: 1
@@ -115,12 +115,12 @@ table_of_contents:
     marker_id: KR3er102_jc_000-d3.h1s1
     span:
     - body
-    - 295
-    - 565
+    - 5504
+    - 5774
   label: 敘
   type: section
   level: 1
-hash: sha256:d9e84d41a85dc55c564ad7e5adeeab3278fc6f8decb09879a190b985a5c78e1c
+hash: sha256:ec2d513fb5ecdaf18d09d02cebcee81bfc5b3557845c11e277efed8038a08fd1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
